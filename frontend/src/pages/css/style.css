@@ -1,0 +1,88 @@
+.sign {
+    background: #c4c4c4;
+    width: 60%;
+    margin: 100px 20% 200px;
+    border: 1px solid #F7F7FF;
+    padding: 10px;
+    padding-bottom: 5%;
+    border: 1px solid #E2E2DC;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.sign-h {
+    text-align: center;
+}
+
+.sign-p {
+    padding: 10px;
+}
+
+.input {
+    height: 60px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.signIn-button {
+    width: 40%;
+    height: 50px;
+    border: 1px solid #838487;
+    background: #474747;
+    border-radius: 10px;
+    display: inline-block;
+    right: 2%;
+    position: absolute;
+    color: white;
+}
+
+.signIn-button:hover {
+    background: #878787;
+    color: black;
+}
+
+#signUp-button {
+    width: 40%;
+    height: 50px;
+    border: 1px solid #838487;
+    background: #474747;
+    border-radius: 10px;
+    display: inline-block;
+    right: 2%;
+    position: absolute;
+    color: white;
+}
+
+#signUp-button:hover {
+    background: #878787;
+    color: black;
+}
+
+.sign-trouble-button {
+    left: 2%;
+    position: absolute;
+}
+
+.inline {
+    display: inline;
+}
+
+.sign-radio {
+    width: 5%;
+    height: 20px;
+}
+
+.username {
+    margin: 3%;
+}
+
+.add-button {
+    background: transparent;
+    border-radius: 10px;
+    border: 0px;
+    color: black;
+}
+
+.add-button:hover {
+    background: #87878740;
+}
